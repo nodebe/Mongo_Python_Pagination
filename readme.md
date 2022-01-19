@@ -1,6 +1,6 @@
 # Pagination using python, RestAPI, Flask, and MongoDB
 
-These are the codes on the article I wrote concerning the title. You can read it [here](https://nodebe.xyz)
+These are the codes on the article I wrote concerning the title. You can read it [here](https://dev.to/metete_welete/pagination-using-python-rest-api-flask-mongodb-2gop)
 
 ## Installation
 
@@ -25,5 +25,3 @@ You can make an endpoint call to 'http://127.0.0.1:2424/books' set body as {"pag
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
